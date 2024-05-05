@@ -23,5 +23,7 @@ Password The Program DELETE itself.
 
 References
 ➢ Nmap - Free Security Scanner for Network Exploration & Security Audits. (n.d.). Retrieved from https://nmap.org/
+
 ➢ Mailtrap. (n.d.). Fake SMTP testing, and email testing for QA & development teams. Retrieved from https://mailtrap.io/
+
 ➢ Python. (n.d.). Retrieved from https://www.python.org/ 
